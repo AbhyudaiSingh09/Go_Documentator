@@ -1,4 +1,3 @@
-Here is a README.md for your Go project that parses Go files, identifies interfaces and their implementations, and sends the data via an API call.
 
 # Go Interface Parser and Implementation Reporter
 
@@ -25,7 +24,7 @@ This Go project is designed to:
 1. Clone the repository or download the source code.
    
    ```bash
-   git clone https://github.com/yourusername/go_parser.git
+   git clone https://github.com/AbhyudaiSingh09/Go_Documentator.git
    cd go_parser
 
 	2.	Install necessary Go packages.
